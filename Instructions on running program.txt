@@ -1,0 +1,5 @@
+INSTRUCTIONS ON RUNNING PROGRAM:
+ONLY RUN THE PROGRAM USING THE current tsp files within this zip file. I have removed spaces so it works properly. I appreciate it.
+Additionally, this program was compiled on VScode. Copy the code and paste it into any compiler for it to run properly. 2 packages need to be made.
+TSP_GASolve and TSP_GASolve.Map. The program class is independent of these packages. The TSP_GASolve class falls into the first package, the other classes
+fall into the other package. Executable Jar file is provided. Thanks.
